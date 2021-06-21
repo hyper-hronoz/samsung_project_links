@@ -7,3 +7,5 @@ samsung_project_links
  This is a front part of application https://github.com/hyper-hronoz/FriendsUp
  
  This is a back part of application https://github.com/hyper-hronoz/samsung_normal_annual_project_backend
+ 
+ This only beta version of application!!!
