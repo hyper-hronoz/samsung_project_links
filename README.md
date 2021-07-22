@@ -2,7 +2,8 @@
 samsung_project_links
 
  Hi every one! This page contain only links, cause samsung dont let attach more then one link, so i solved the problem
-
+ 
+## ЕСЛИ ВАМ НУЖНО РАБОЧАЯ ВЕРСИЯ ПРОЕКТА, ТО ОТКАТИТЕ JAVA ПРИЛОЖЕНИЕ на 1 - 3 коммита назад, до того как я полез с MVVM.)))
 
  This is a front part of application https://github.com/hyper-hronoz/FriendsUp
  
